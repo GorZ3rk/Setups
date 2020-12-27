@@ -11,7 +11,6 @@ set cindent
 set tabstop=2
 set shiftwidth=2
 set showmatch
-set guioptions-=T
 set nohls
 set expandtab
 set ai
