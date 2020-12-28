@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+matplotlib
+requests
+pymongo
+pyyaml
+mysql-connector-python
+pyelftools
+flask
+django
+cryptography
+pycrypto
+scrapy
+beautifulsoup4
+Pillow
