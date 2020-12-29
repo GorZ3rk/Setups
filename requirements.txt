@@ -14,3 +14,6 @@ pycrypto
 scrapy
 beautifulsoup4
 Pillow
+redis
+hiredis
+pyjwt
