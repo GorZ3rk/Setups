@@ -17,3 +17,7 @@ Pillow
 redis
 hiredis
 pyjwt
+r2pipe
+pyfiglet
+MechanicalSoup
+Jinja2
