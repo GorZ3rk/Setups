@@ -2,6 +2,7 @@ pandas
 numpy
 scipy
 matplotlib
+seaborn
 requests
 pymongo
 pyyaml
@@ -21,3 +22,4 @@ r2pipe
 pyfiglet
 MechanicalSoup
 Jinja2
+selenium
