@@ -1,3 +1,3 @@
-# Configuration
+# Setups
 
 Some Configurations here ...
