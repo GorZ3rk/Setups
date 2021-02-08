@@ -8,6 +8,7 @@ pymongo
 pyyaml
 mysql-connector-python
 pyelftools
+psutil
 flask
 django
 cryptography
