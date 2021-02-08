@@ -1,4 +1,4 @@
-# GDB configuration on MAC
+# GDB Setup on MAC
 
 - Use `Homebrew` to install gdb on mac
 
