@@ -2,7 +2,7 @@
 
 - Use `Homebrew` to install gdb on mac
 
-```jsx
+```bash
 brew install gdb
 ```
 
