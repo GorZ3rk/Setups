@@ -24,3 +24,5 @@ pyfiglet
 MechanicalSoup
 Jinja2
 selenium
+scikit-learn
+ipython
