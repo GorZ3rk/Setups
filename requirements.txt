@@ -1,6 +1,8 @@
 pandas
 numpy
 scipy
+scapy
+pywin32
 matplotlib
 seaborn
 requests
@@ -26,3 +28,4 @@ Jinja2
 selenium
 scikit-learn
 ipython
+pyautogui
